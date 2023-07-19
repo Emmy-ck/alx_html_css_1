@@ -1,0 +1,3 @@
+This is the HTML advance ALX project repository.
+In this project I will focus only on HTML structure, no CSS, no style - just pure HTML semantic.
+The result will not be shiny, don’t worry, CSS is coming…
